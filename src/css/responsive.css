@@ -1,0 +1,8 @@
+@media (min-width: 796px){
+    .card{
+        width: 450px;
+    }
+    div .line img{
+        padding-top: 25px;
+    }
+}
